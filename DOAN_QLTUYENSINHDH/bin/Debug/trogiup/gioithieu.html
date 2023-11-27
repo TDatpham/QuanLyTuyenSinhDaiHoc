@@ -1,0 +1,91 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Untitled Document</title>
+
+<style type="text/css">
+<!--
+.style3 {color: #990000}
+-->
+</style>
+</head>
+
+<body>
+<center>
+ <script type="text/javascript">
+    <!-- Begin
+    function toSpans(span) {
+      var str=span.firstChild.data;
+      var a=str.length;
+      span.removeChild(span.firstChild);
+      for(var i=0; i<a; i++) {
+        var theSpan=document.createElement("SPAN");
+        theSpan.appendChild(document.createTextNode(str.charAt(i)));
+        span.appendChild(theSpan);
+      }
+    }
+
+    function RainbowSpan(span, hue, deg, brt, spd, hspd) {
+        this.deg=(deg==null?360:Math.abs(deg));
+        this.hue=(hue==null?0:Math.abs(hue)%360);
+        this.hspd=(hspd==null?3:Math.abs(hspd)%360);
+        this.length=span.firstChild.data.length;
+        this.span=span;
+        this.speed=(spd==null?50:Math.abs(spd));
+        this.hInc=this.deg/this.length;
+        this.brt=(brt==null?255:Math.abs(brt)%256);
+        this.timer=null;
+        toSpans(span);
+        this.moveRainbow();
+    }
+    RainbowSpan.prototype.moveRainbow = function() {
+      if(this.hue>359) this.hue-=360;
+      var color;
+      var b=this.brt;
+      var a=this.length;
+      var h=this.hue;
+
+      for(var i=0; i<a; i++) {
+
+        if(h>359) h-=360;
+
+        if(h<60) { color=Math.floor(((h)/60)*b); red=b;grn=color;blu=0; }
+        else if(h<120) { color=Math.floor(((h-60)/60)*b); red=b-color;grn=b;blu=0; }
+        else if(h<180) { color=Math.floor(((h-120)/60)*b); red=0;grn=b;blu=color; }
+        else if(h<240) { color=Math.floor(((h-180)/60)*b); red=0;grn=b-color;blu=b; }
+        else if(h<300) { color=Math.floor(((h-240)/60)*b); red=color;grn=0;blu=b; }
+        else { color=Math.floor(((h-300)/60)*b); red=b;grn=0;blu=b-color; }
+
+        h+=this.hInc;
+
+        this.span.childNodes[i].style.color="rgb("+red+", "+grn+", "+blu+")";
+      }
+      this.hue+=this.hspd;
+    }
+    </script>
+    <h1 id="r1">PHẦN MỀM QUẢN LÝ THI TUYỂN SINH ĐẠI HỌC</h1>
+	
+    <p align="center">
+  <script type="text/javascript">
+    var r1=document.getElementById("r1"); //get span to apply rainbow
+    var myRainbowSpan=new RainbowSpan(r1, 0, 360, 255, 50, 18); //apply static rainbow effect
+    myRainbowSpan.timer=window.setInterval("myRainbowSpan.moveRainbow()", myRainbowSpan.speed);
+    </script>
+    <p class="MsoNormal" align="center" style='text-align:center'><span class="MsoNormal" style="text-align:center"><img width="668" height="436" src="image002.jpg" /></span><br />
+  <span class="style3">GVHD : Ths V&#361; Th&#7883; Ph&#432;&#417;ng<br />
+  H&#7885; V&agrave; T&ecirc;n : Tr&#7847;n V&#259;n Nam<br />
+  L&#7899;p : DLC CNTT 6A<br />
+  Khoa : C&ocirc;ng Ngh&#7879; Th&ocirc;ng Tin<br />
+  Tr&#432;&#7901;ng : &#272;&#7841;i H&#7885;c S&#432; ph&#7841;m K&#7929; Thu&#7853;t Nam &#272;&#7883;nh</span></p>
+<p align="left">Click vào hình ảnh giới thiệu để vào sử dụng chương trình</p>
+<p align="left">Nếu cấu hình đến cơ sở dữ liệu sai thì bạn vào menu -&gt; cấu hình để thiết lập lại. </p>
+<p align="left">Ở đây bạn chọn tên server và kiểu đăng  nhập sau đó ấn test connection để kiểm tra. Nếu đúng thì trong combobox tên cơ  sở dữ liệu sẽ hiện ra các cơ sở dữ liệu có trong máy cho bạn chọn. </p>
+<p class="MsoNormal" align="center" style='text-align:center'>&nbsp;</p>
+<p class="MsoNormal" align="center" style='text-align:center'><span class="MsoNormal" style="text-align:center"><img width="418" height="409" src="cauhinh.jpg" /></span></p>
+<p class="MsoNormal" align="center" style='text-align:center'>nếu đúng cơ sở dữ liệu sẽ chạy lên giao diện chính của chương trình . để đăng nhập vào quản lý ấn Ctrl + L hoặc menu -&gt; đăng nhập </p>
+<p class="MsoNormal" align="center" style='text-align:center'><span class="style3"><span class="MsoNormal" style="text-align:center"><img width="160" height="241" src="menu.jpg" /></span></span></p>
+<p class="MsoNormal" align="center" style='text-align:center'><span class="style3"><br />
+</span></p>
+</body>
+</html>

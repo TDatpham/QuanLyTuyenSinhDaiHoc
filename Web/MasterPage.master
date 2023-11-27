@@ -1,0 +1,48 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head runat="server">
+    <title>Untitled Page</title>
+    <link rel="icon" type="image/png" href="favico.ico" />
+    <link rel ="Stylesheet" href ="~/style.css" type ="text/css" />
+ 
+<script language="javascript" type="text/javascript">
+</script>
+</head>
+<body>
+
+    <form id="form1" runat="server">
+    <div>
+    <center>
+        <table style="width: 1024px; height: 227px">
+            <tr>
+                <td align="left" colspan="3" style="background-attachment: scroll; background-repeat:no-repeat ;">
+                   
+                    <a href="Default.aspx" ><img src="img/bn.jpg" alt="trang chu" /></a>
+                    </td>
+            </tr>
+            <tr>
+                <td colspan="3" style="height: 129px;" valign="top">
+                   
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    </asp:ContentPlaceHolder>
+                    
+                </td>
+            </tr>
+            <tr>
+                <td align="center" colspan="3" style="height: 83px">
+                    <asp:Image ID="Image2" runat="server" ImageUrl="img/hotro.gif" /><br />
+                                
+                                
+                                <asp:Label ID="Label1" runat="server" Text="Số lượt khách :"></asp:Label><asp:Label ID="Label2" runat="server" Text="truy cập"></asp:Label><br />
+                                      THIẾT KẾ BỞI &nbsp;<a href="http://vannamit.info">TRẦN VĂN NAM</a>              
+                    </td>
+            </tr>
+        </table>
+        </center>
+    </div>
+    </form>
+</body>
+</html>

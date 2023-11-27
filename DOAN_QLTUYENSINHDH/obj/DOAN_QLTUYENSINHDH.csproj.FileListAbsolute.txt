@@ -1,0 +1,201 @@
+C:\Users\ADMIN\Documents\Visual Studio 2005\Projects\DOAN_QLTUYENSINHDH\DOAN_QLTUYENSINHDH\bin\Debug\DOAN_QLTUYENSINHDH.exe
+C:\Users\ADMIN\Documents\Visual Studio 2005\Projects\DOAN_QLTUYENSINHDH\DOAN_QLTUYENSINHDH\bin\Debug\DOAN_QLTUYENSINHDH.pdb
+C:\Users\ADMIN\Documents\Visual Studio 2005\Projects\DOAN_QLTUYENSINHDH\DOAN_QLTUYENSINHDH\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\ADMIN\Documents\Visual Studio 2005\Projects\DOAN_QLTUYENSINHDH\DOAN_QLTUYENSINHDH\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ADMIN\Documents\Visual Studio 2005\Projects\DOAN_QLTUYENSINHDH\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.Properties.Resources.resources
+C:\Users\ADMIN\Documents\Visual Studio 2005\Projects\DOAN_QLTUYENSINHDH\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.csproj.GenerateResource.Cache
+C:\Users\ADMIN\Documents\Visual Studio 2005\Projects\DOAN_QLTUYENSINHDH\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.exe
+C:\Users\ADMIN\Documents\Visual Studio 2005\Projects\DOAN_QLTUYENSINHDH\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.pdb
+C:\Users\ADMIN\Documents\Visual Studio 2005\Projects\DOAN_QLTUYENSINHDH\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.FrmCauHinh.resources
+C:\Users\ADMIN\Documents\Visual Studio 2005\Projects\DOAN_QLTUYENSINHDH\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.FormQuanLy.FrmThiSinh.resources
+C:\Users\ADMIN\Documents\Visual Studio 2005\Projects\DOAN_QLTUYENSINHDH\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.FrmDangNhap.resources
+C:\Users\ADMIN\Documents\Visual Studio 2005\Projects\DOAN_QLTUYENSINHDH\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.FrmGioiThieu.resources
+C:\Users\ADMIN\Documents\Visual Studio 2005\Projects\DOAN_QLTUYENSINHDH\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.FrmMain.resources
+C:\Users\ADMIN\Documents\Visual Studio 2005\Projects\DOAN_QLTUYENSINHDH\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.FrmTacGia.resources
+C:\Users\ADMIN\Documents\Visual Studio 2005\Projects\DOAN_QLTUYENSINHDH\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.FrmThoat.resources
+C:\Users\ADMIN\Documents\Visual Studio 2005\Projects\DOAN_QLTUYENSINHDH\DOAN_QLTUYENSINHDH\bin\Debug\Interop.WMPLib.dll
+C:\Users\ADMIN\Documents\Visual Studio 2005\Projects\DOAN_QLTUYENSINHDH\DOAN_QLTUYENSINHDH\obj\Debug\Interop.WMPLib.dll
+C:\Users\ADMIN\Documents\Visual Studio 2005\Projects\DOAN_QLTUYENSINHDH\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.csproj.ResolveComReference.cache
+C:\Users\ADMIN\Documents\Visual Studio 2005\Projects\DOAN_QLTUYENSINHDH\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.FrmHuongDan.resources
+C:\Users\ADMIN\Documents\Visual Studio 2005\Projects\DOAN_QLTUYENSINHDH\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.FormQuanLy.FrmNamThi.resources
+D:\DOAN_QLTUYENSINHDH\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.exe
+D:\DOAN_QLTUYENSINHDH\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.pdb
+D:\DOAN_QLTUYENSINHDH\DOAN_QLTUYENSINHDH\bin\Debug\DOAN_QLTUYENSINHDH.exe
+D:\DOAN_QLTUYENSINHDH\DOAN_QLTUYENSINHDH\bin\Debug\DOAN_QLTUYENSINHDH.pdb
+D:\DOAN_QLTUYENSINHDH\DOAN_QLTUYENSINHDH\bin\Debug\DevComponents.DotNetBar2.dll
+D:\DOAN_QLTUYENSINHDH\DOAN_QLTUYENSINHDH\bin\Debug\Interop.WMPLib.dll
+D:\DOAN_QLTUYENSINHDH\DOAN_QLTUYENSINHDH\obj\Debug\ResolveAssemblyReference.cache
+D:\DOAN_QLTUYENSINHDH\DOAN_QLTUYENSINHDH\obj\Debug\Interop.WMPLib.dll
+D:\DOAN_QLTUYENSINHDH\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.csproj.ResolveComReference.cache
+D:\DOAN_QLTUYENSINHDH\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.FormQuanLy.FrmNamThi.resources
+D:\DOAN_QLTUYENSINHDH\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.FrmCauHinh.resources
+D:\DOAN_QLTUYENSINHDH\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.FormQuanLy.FrmThiSinh.resources
+D:\DOAN_QLTUYENSINHDH\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.FrmDangNhap.resources
+D:\DOAN_QLTUYENSINHDH\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.FrmGioiThieu.resources
+D:\DOAN_QLTUYENSINHDH\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.FrmHuongDan.resources
+D:\DOAN_QLTUYENSINHDH\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.FrmMain.resources
+D:\DOAN_QLTUYENSINHDH\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.FrmTacGia.resources
+D:\DOAN_QLTUYENSINHDH\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.FrmThoat.resources
+D:\DOAN_QLTUYENSINHDH\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.Properties.Resources.resources
+D:\DOAN_QLTUYENSINHDH\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.csproj.GenerateResource.Cache
+D:\DOAN_QLTUYENSINHDH\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.FormQuanLy.FrmDanhSBD.resources
+D:\DOAN_QLTUYENSINHDH\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.FormQuanLy.FrmDanToc.resources
+D:\DOAN_QLTUYENSINHDH\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.FormQuanLy.FrmTinh.resources
+D:\DOAN_QLTUYENSINHDH\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.FormQuanLy.FrmChiaPhong.resources
+D:\DOAN_QLTUYENSINHDH\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.FormQuanLy.Form1.resources
+C:\Users\Admin\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.exe
+C:\Users\Admin\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.pdb
+C:\Users\Admin\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\bin\Debug\DOAN_QLTUYENSINHDH.exe
+C:\Users\Admin\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\bin\Debug\DOAN_QLTUYENSINHDH.pdb
+C:\Users\Admin\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Admin\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\bin\Debug\Interop.WMPLib.dll
+C:\Users\Admin\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\Interop.WMPLib.dll
+C:\Users\Admin\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.csproj.ResolveComReference.cache
+C:\Users\Admin\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.FormQuanLy.FrmChiaPhong.resources
+C:\Users\Admin\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.FormQuanLy.FrmDanhSBD.resources
+C:\Users\Admin\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.FormQuanLy.FrmDanToc.resources
+C:\Users\Admin\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.FormQuanLy.FrmTinh.resources
+C:\Users\Admin\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.FrmCauHinh.resources
+C:\Users\Admin\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.FormQuanLy.FrmThiSinh.resources
+C:\Users\Admin\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.FrmDangNhap.resources
+C:\Users\Admin\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.FrmGioiThieu.resources
+C:\Users\Admin\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.FrmHuongDan.resources
+C:\Users\Admin\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.FrmMain.resources
+C:\Users\Admin\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.FrmTacGia.resources
+C:\Users\Admin\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.FrmThoat.resources
+C:\Users\Admin\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.Properties.Resources.resources
+C:\Users\Admin\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.csproj.GenerateResource.Cache
+C:\Users\Admin\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.FormQuanLy.FrmDiaDiem.resources
+C:\Users\Admin\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.FormQuanLy.FrmHuyen.resources
+C:\Users\Admin\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\bin\Debug\DOAN_QLTUYENSINHDH.exe.config
+C:\Users\Admin\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.FormQuanLy.FrmNguoiDung.resources
+C:\Users\Admin\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.FrmHenGio.resources
+C:\Users\Admin\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.FrmMail.resources
+C:\Users\Admin\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.FormQuanLy.FrmDoiTuong.resources
+C:\Users\Admin\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.FormQuanLy.FrmKhuVuc.resources
+C:\Users\Admin\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.FormQuanLy.FrmNamThi_Cu.resources
+C:\Users\Admin\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.FormQuanLy.FrmTKThiSinh.resources
+C:\Users\Admin\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.FormQuanLy.FrmChiTietTS.resources
+C:\Users\Admin\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.BaoCao.Rptdanhsach.resources
+C:\Users\Admin\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.FormQuanLy.FrmPhach.resources
+C:\Users\Admin\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.BaoCao.Crphach.rpt
+C:\Users\Admin\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.BaoCao.Rpphach.resources
+C:\Users\Admin\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.BaoCao.Crdiem_mon.rpt
+C:\Users\Admin\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.FormQuanLy.FrmDiem.resources
+C:\Users\Admin\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.BaoCao.CrGiayBaoDT.rpt
+C:\Users\Admin\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.BaoCao.CrPhongThi.rpt
+C:\Users\Admin\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.BaoCao.Rpgiaybaothi.resources
+C:\Users\Admin\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.BaoCao.Rpphongthi.resources
+C:\Users\Admin\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.BaoCao.Crgiaybaodiem.rpt
+C:\Users\Admin\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.BaoCao.CrDSDuthi.rpt
+C:\Users\Admin\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.FormQuanLy.FrmTkDiem.resources
+C:\Users\Admin\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.BaoCao.Rpgiaybaodiem.resources
+C:\Users\Admin\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.BaoCao.CrDstrungtuyen.rpt
+C:\Users\Admin\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.BaoCao.Rpdstrungtuyen.resources
+C:\Users\Admin\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.BaoCao.Crgiaytrungtuyen.rpt
+C:\Users\Admin\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.BaoCao.Rpgiaytrungtuyen.resources
+C:\Users\Admin\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.BaoCao.Crbangdiem.rpt
+C:\Users\Admin\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.BaoCao.Rpbangdiem.resources
+C:\Users\Admin\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\bin\Debug\System.configuration.dll
+C:\Users\Admin\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Admin\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\bin\Debug\CrystalDecisions.CrystalReports.Engine.xml
+C:\Users\Admin\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\bin\Debug\CrystalDecisions.Enterprise.Framework.dll
+C:\Users\Admin\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\bin\Debug\CrystalDecisions.Enterprise.InfoStore.dll
+C:\Users\Admin\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Admin\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Admin\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Admin\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\bin\Debug\CrystalDecisions.Windows.Forms.xml
+C:\Users\Admin\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\bin\Debug\CrystalDecisions.Shared.xml
+C:\Users\Admin\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\bin\Debug\CrystalDecisions.ReportSource.xml
+C:\Users\Admin\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\bin\Debug\System.Data.dll
+C:\Users\Admin\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\bin\Debug\System.Deployment.dll
+C:\Users\Admin\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\bin\Debug\System.Design.dll
+C:\Users\Admin\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\bin\Debug\System.dll
+C:\Users\Admin\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\bin\Debug\System.Drawing.Design.dll
+C:\Users\Admin\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\bin\Debug\System.Drawing.dll
+C:\Users\Admin\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\bin\Debug\System.Web.dll
+C:\Users\Admin\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\bin\Debug\System.Web.Services.dll
+C:\Users\Admin\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\bin\Debug\System.Windows.Forms.dll
+C:\Users\Admin\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\bin\Debug\System.Xml.dll
+C:\Users\Admin\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.FormQuanLy.FrmDiem_cu.resources
+C:\Users\Admin\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.FormQuanLy.FrmDoiMK.resources
+C:\Users\Admin\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.FormQuanLy.FrmBoThi.resources
+C:\Users\VANNAMIT\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\bin\Debug\DOAN_QLTUYENSINHDH.exe.config
+C:\Users\VANNAMIT\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.exe
+C:\Users\VANNAMIT\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.pdb
+C:\Users\VANNAMIT\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\bin\Debug\DOAN_QLTUYENSINHDH.exe
+C:\Users\VANNAMIT\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\bin\Debug\DOAN_QLTUYENSINHDH.pdb
+C:\Users\VANNAMIT\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\VANNAMIT\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\bin\Debug\CrystalDecisions.Enterprise.Framework.dll
+C:\Users\VANNAMIT\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\bin\Debug\CrystalDecisions.Enterprise.InfoStore.dll
+C:\Users\VANNAMIT\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\VANNAMIT\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\VANNAMIT\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\VANNAMIT\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\VANNAMIT\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\bin\Debug\System.configuration.dll
+C:\Users\VANNAMIT\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\bin\Debug\System.Data.dll
+C:\Users\VANNAMIT\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\bin\Debug\System.Deployment.dll
+C:\Users\VANNAMIT\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\bin\Debug\System.Design.dll
+C:\Users\VANNAMIT\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\bin\Debug\System.dll
+C:\Users\VANNAMIT\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\bin\Debug\System.Drawing.Design.dll
+C:\Users\VANNAMIT\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\bin\Debug\System.Drawing.dll
+C:\Users\VANNAMIT\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\bin\Debug\System.Web.dll
+C:\Users\VANNAMIT\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\bin\Debug\System.Web.Services.dll
+C:\Users\VANNAMIT\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\bin\Debug\System.Windows.Forms.dll
+C:\Users\VANNAMIT\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\bin\Debug\System.Xml.dll
+C:\Users\VANNAMIT\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\bin\Debug\CrystalDecisions.CrystalReports.Engine.xml
+C:\Users\VANNAMIT\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\bin\Debug\CrystalDecisions.Windows.Forms.xml
+C:\Users\VANNAMIT\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\bin\Debug\CrystalDecisions.Shared.xml
+C:\Users\VANNAMIT\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\bin\Debug\CrystalDecisions.ReportSource.xml
+C:\Users\VANNAMIT\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\bin\Debug\Interop.WMPLib.dll
+C:\Users\VANNAMIT\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\VANNAMIT\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\Interop.WMPLib.dll
+C:\Users\VANNAMIT\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.csproj.ResolveComReference.cache
+C:\Users\VANNAMIT\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.BaoCao.Crbangdiem.rpt
+C:\Users\VANNAMIT\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.BaoCao.Crgiaytrungtuyen.rpt
+C:\Users\VANNAMIT\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.BaoCao.Crdiem_mon.rpt
+C:\Users\VANNAMIT\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.BaoCao.CrDstrungtuyen.rpt
+C:\Users\VANNAMIT\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.BaoCao.Crgiaybaodiem.rpt
+C:\Users\VANNAMIT\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.BaoCao.CrGiayBaoDT.rpt
+C:\Users\VANNAMIT\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.BaoCao.Crphach.rpt
+C:\Users\VANNAMIT\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.BaoCao.CrPhongThi.rpt
+C:\Users\VANNAMIT\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.BaoCao.CrDSDuthi.rpt
+C:\Users\VANNAMIT\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.BaoCao.Rpbangdiem.resources
+C:\Users\VANNAMIT\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.BaoCao.Rpdstrungtuyen.resources
+C:\Users\VANNAMIT\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.BaoCao.Rpgiaybaodiem.resources
+C:\Users\VANNAMIT\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.BaoCao.Rpgiaytrungtuyen.resources
+C:\Users\VANNAMIT\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.FormQuanLy.FrmBoThi.resources
+C:\Users\VANNAMIT\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.FormQuanLy.FrmDiem.resources
+C:\Users\VANNAMIT\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.FormQuanLy.FrmDoiMK.resources
+C:\Users\VANNAMIT\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.FormQuanLy.FrmTkDiem.resources
+C:\Users\VANNAMIT\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.BaoCao.Rpgiaybaothi.resources
+C:\Users\VANNAMIT\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.BaoCao.Rpphach.resources
+C:\Users\VANNAMIT\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.BaoCao.Rpphongthi.resources
+C:\Users\VANNAMIT\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.BaoCao.Rptdanhsach.resources
+C:\Users\VANNAMIT\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.FormQuanLy.FrmChiaPhong.resources
+C:\Users\VANNAMIT\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.FormQuanLy.FrmChiTietTS.resources
+C:\Users\VANNAMIT\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.FormQuanLy.FrmDanhSBD.resources
+C:\Users\VANNAMIT\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.FormQuanLy.FrmDanToc.resources
+C:\Users\VANNAMIT\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.FormQuanLy.FrmDiaDiem.resources
+C:\Users\VANNAMIT\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.FormQuanLy.FrmDiem_cu.resources
+C:\Users\VANNAMIT\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.FormQuanLy.FrmDoiTuong.resources
+C:\Users\VANNAMIT\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.FormQuanLy.FrmHuyen.resources
+C:\Users\VANNAMIT\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.FormQuanLy.FrmKhuVuc.resources
+C:\Users\VANNAMIT\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.FormQuanLy.FrmNamThi_Cu.resources
+C:\Users\VANNAMIT\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.FormQuanLy.FrmNguoiDung.resources
+C:\Users\VANNAMIT\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.FormQuanLy.FrmPhach.resources
+C:\Users\VANNAMIT\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.FormQuanLy.FrmTinh.resources
+C:\Users\VANNAMIT\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.FormQuanLy.FrmTKThiSinh.resources
+C:\Users\VANNAMIT\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.FrmCauHinh.resources
+C:\Users\VANNAMIT\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.FormQuanLy.FrmThiSinh.resources
+C:\Users\VANNAMIT\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.FrmDangNhap.resources
+C:\Users\VANNAMIT\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.FrmGioiThieu.resources
+C:\Users\VANNAMIT\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.FrmHenGio.resources
+C:\Users\VANNAMIT\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.FrmHuongDan.resources
+C:\Users\VANNAMIT\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.FrmMail.resources
+C:\Users\VANNAMIT\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.FrmMain.resources
+C:\Users\VANNAMIT\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.FrmTacGia.resources
+C:\Users\VANNAMIT\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.FrmThoat.resources
+C:\Users\VANNAMIT\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.Properties.Resources.resources
+C:\Users\VANNAMIT\Google Drive\Code Doan\DOAN_QLTUYENSINHDH\obj\Debug\DOAN_QLTUYENSINHDH.csproj.GenerateResource.Cache
